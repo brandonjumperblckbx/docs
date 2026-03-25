@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#7C3AED",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -11,25 +11,26 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "BLCKBX Security Systems",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Documentation",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "Architecture",
+              "Development"
+              "Engineering"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Security Platform",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "essentials/Documentation",
+              "essentials/Development"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "BLCKBX Content",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -40,15 +41,15 @@
           {
             "group": "AI tools",
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "ai-tools/Agent Development",
+              "ai-tools/AI Lab",
+              "ai-tools/Manifests"
             ]
           }
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "API Reference",
         "groups": [
           {
             "group": "API documentation",
