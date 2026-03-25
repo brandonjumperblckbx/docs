@@ -17,9 +17,9 @@
             "group": "Documentation",
             "pages": [
               "index",
-              "Architecture",
-              "Development"
-              "Engineering"
+              "architecture",
+              "development",
+              "engineering"
             ]
           },
           {
